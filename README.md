@@ -4,9 +4,6 @@ A simple `typst` template for MystMD
 
 ![](thumbnail.png)
 
-- Author: [name] ([affiliation])
-- Author Website: [site]
-- [Submission Guidelines]([source])
 
 ## Steps to creating your own template!
 
