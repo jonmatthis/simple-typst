@@ -1,4 +1,5 @@
 jtex: v1
+kind: typst
 title: 'plain_typst'
 description: 'A simple `typst` template for MystMD'
 version: 1.0.0
