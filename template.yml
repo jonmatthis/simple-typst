@@ -1,9 +1,9 @@
 jtex: v1
 kind: typst
-title: 'plain_typst'
+title: 'simple-typst'
 description: 'A simple `typst` template for MystMD'
 version: 1.0.0
-license: TODO
+license: MIT
 source: 'https://github.com/jonmatthis/plain_typst'
 authors:
   - name: 'Jon Matthis'
